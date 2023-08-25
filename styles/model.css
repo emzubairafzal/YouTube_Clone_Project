@@ -1,0 +1,15 @@
+.model-class {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.order-class {
+  font-size: 15px;
+  text-align: center;
+  margin-top: 0;
+}
+.touch-class {
+  text-decoration: underline;
+  cursor: pointer;
+}
